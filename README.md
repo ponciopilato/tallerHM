@@ -9,6 +9,7 @@ Este repositorio es el espacio compartido del taller. Cada participante hace su 
 |---|---|
 | `hola_mundo.py` | Script Python para modificar (Opción A) |
 | `index.html` | Página web para personalizar (Opción B) |
+| `gustavo.html` | Página personal de Gustavo (derivada de `ariel.html`) |
 | `README.md` | Este archivo, para editar y firmar (Opción C) |
 
 ## Cómo contribuir
@@ -33,4 +34,11 @@ Hoy aprendí que Git y GitHub no son solo herramientas para programadores — so
 ## Ariel Alegre
 Es apasionante el potencial creativo que tiene el trabajo colaborativo con LLMs y GitHub. Hoy lo viví en primera persona: en pocas horas armamos un taller, un repo, una web, páginas personales y un libro compartido — todo sin saber HTML, solo describiendo lo que queríamos. La IA no reemplaza la creatividad, la amplifica.
 
+## Simon Armando
+Intentando aprender. No viene fácil!
+
+
 <!-- Agregá tu capítulo acá — copiá el bloque de arriba y completá con tu nombre y tu experiencia -->
+
+## Gustavo
+Generé `gustavo.html` basado en `ariel.html`. Incluye un emoji relacionado a electrónica (🔌) y un saludo personalizado.
